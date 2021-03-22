@@ -1,0 +1,9 @@
+{
+  "x4": {
+    "model_path": "targets/graphs/edsr_baseline_x4.pb",
+    "channel_first": true,
+    "pixel_range": 255,
+    "input_name": "sr_input",
+    "output_name": "sr_output"
+  }
+}
